@@ -1,4 +1,4 @@
-# WWDCVideoWatcher
+# WWDChrome
 Chrome extension which lets you watch WWDC Developer Videos in Google Chrome (thus not having to use Safari)
 
 Apple doesn't let you watch it's [WWDC](https://developer.apple.com/videos/) videos on any browser except Safari.
