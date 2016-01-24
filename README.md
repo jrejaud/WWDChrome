@@ -8,7 +8,7 @@ Apple doesn't let you watch it's [WWDC](https://developer.apple.com/videos/) vid
 This extension automatically replaces the video that says "Streaming is available in Safari, and through the WWDC app." with the blocked video itself.
 
 # Installation
-Download the [WWDChrome zip file](WWDChrome/WWDChrome.zip).
+Download the [WWDChrome zip file](https://github.com/jrejaud/WWDChrome/blob/master/WWDChrome.zip?raw=true).
 
 Unzip the WWDChrome directory from the zip file.
 
