@@ -9,5 +9,7 @@ This extension automatically replaces the video that says "Streaming is availabl
 
 # Installation
 Download the [WWDChrome zip file](WWDChrome/WWDChrome.zip).
-Unzip the directory
-[Load](https://developer.chrome.com/extensions/getstarted#unpacked) the WWDChrome directory extension  
+
+Unzip the WWDChrome directory from the zip file.
+
+[Load](https://developer.chrome.com/extensions/getstarted#unpacked) the WWDChrome directory extension.
