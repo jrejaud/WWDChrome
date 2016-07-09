@@ -1,8 +1,8 @@
 {
   "name": "WWDChrome",
   "manifest_version": 2,
-  "version": "0.1.1",
-  "description": "Watch Apple WWDC videos on Google Chrome",
+  "version": "0.1.2",
+  "description": "Watch Apple WWDC videos using Google Chrome",
   "content_scripts": [
     {
       "matches": ["https://developer.apple.com/videos/*"],
