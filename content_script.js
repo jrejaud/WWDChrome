@@ -8,7 +8,7 @@ var hdVideoElement = optionsLinkItems[0].getElementsByTagName("a")[0];
 var hdVideoURL = hdVideoElement.getAttribute("href");
 
 //Get the video element
-var bustedAssVideo = document.getElementsByClassName("video center")[0];
+var bustedAssVideo = document.getElementsByClassName("video large-centered")[0];
 
 //This is the url of the video that you will be shown if using Chrome
 var badVideoUrl = bustedAssVideo.getElementsByTagName("Source")[1].getAttribute("src");
